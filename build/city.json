@@ -1,12 +1,38 @@
 {
- "slug": "sheffield", "city": "Sheffield", "short": "Sheffield",
+ "slug": "sheffield",
+ "city": "Sheffield",
+ "short": "Sheffield",
  "tagline": "Eat · Real ale · Kelham Island · Antiques · Galleries · Peaks",
  "desc": "Independent Sheffield: real-ale pubs, Kelham Island food, record shops, antiques, galleries, museums and Peak District days out, with maps, reviews and directions.",
- "theme": "#2F3B47", "gradient": "linear-gradient(110deg,#1F2933,#3E5466 55%,#C2703D)",
- "icon_colors": ["#1F2933", "#B8653A"], "stone": "#D9D2C5", "landmark": "steel",
- "center": [53.3815, -1.4705], "zoom": 14,
- "base": {"name": "Peace Gardens", "addr": "Peace Gardens, by the Town Hall, S1 2HH", "lat": 53.37995, "lon": -1.47008,
-          "q": "Peace Gardens, Sheffield", "icon": "⛲", "short": "the Peace Gardens", "the": "the Peace Gardens"},
- "special": {"tab": "Ale trail", "icon": "🍺"},
- "version": 2
+ "theme": "#2F3B47",
+ "gradient": "linear-gradient(110deg,#1F2933,#3E5466 55%,#C2703D)",
+ "icon_colors": [
+  "#1F2933",
+  "#B8653A"
+ ],
+ "stone": "#D9D2C5",
+ "landmark": "steel",
+ "center": [
+  53.3815,
+  -1.4705
+ ],
+ "zoom": 14,
+ "base": {
+  "name": "Peace Gardens",
+  "addr": "Peace Gardens, by the Town Hall, S1 2HH",
+  "lat": 53.37995,
+  "lon": -1.47008,
+  "q": "Peace Gardens, Sheffield",
+  "icon": "⛲",
+  "short": "the Peace Gardens",
+  "the": "the Peace Gardens"
+ },
+ "special": {
+  "tab": "Ale trail",
+  "icon": "🍺"
+ },
+ "version": 3,
+ "renamed": {
+  "Electric Studios": "Electric Sheffield"
+ }
 }

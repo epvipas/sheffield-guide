@@ -8,7 +8,7 @@ add("sights","Peace Gardens & Town Hall","Pinstone Street, S1 2HH",
  "The city's main square, with fountains and cascades in front of the 1897 Town Hall. On the Town Hall's tower stands a statue of Vulcan, the god of fire and metalwork.",
  "Your base for walking times",ta=True,geo="Peace Gardens, Sheffield")
 add("sights","Park Hill","Duke Street, S2 5RQ",
- "The vast 1960s 'streets in the sky' estate on the hill above the station, Europe's largest listed building, now part-restored with flats, studios and the S1 Artspace gallery. The 'I love you will u marry me' graffiti bridge is now a neon sign.",
+ "The vast 1960s 'streets in the sky' estate on the hill above the station, Europe's largest listed building, now part-restored with flats and studios. S1 Artspace's gallery is temporarily in a former garage nearby. The 'I love you will u marry me' graffiti bridge is now a neon sign.",
  "A 10-minute walk up from the station",ta=True,geo="Park Hill, Sheffield",ll=(53.3780,-1.4605))
 add("sights","Kelham Island Quarter","Alma Street, S3 8RY",
  "An old industrial island on the River Don, now the city's best area for independent bars, restaurants and real-ale pubs among restored workshops and warehouses.",
@@ -35,9 +35,6 @@ add("museums","Portland Works","Randall Street, S2 4SJ",
 add("galleries","Millennium Gallery","Arundel Gate, S1 2PP",
  "Free galleries of art and design, including Sheffield's metalwork collection and John Ruskin's collection of art, minerals and casts that he gave to the city's workers.",
  "Free · joined to the Winter Garden",web="https://sheffieldmuseums.org.uk",geo="Millennium Gallery, Sheffield")
-add("galleries","Graves Gallery","Surrey Street, S1 1XZ",
- "A free gallery on the top floor of the Central Library with paintings from Turner and Cézanne to contemporary artists.",
- "Free; take the lift up through the library",web="https://sheffieldmuseums.org.uk",geo="Graves Gallery, Sheffield",ll=(53.3802,-1.4673))
 add("galleries","Site Gallery","1 Brown Street, S1 2BS",
  "Sheffield's contemporary art centre for moving image, new media and performance, in the Cultural Industries Quarter near the station.",
  "Free",geo="Site Gallery, Sheffield")
@@ -57,7 +54,7 @@ add("records","Record Collector","233 Fulwood Road, Broomhill, S10 3BA",
 add("records","Memory Dance","Chapel Walk, S1 2PD",
  "A new record shop on Chapel Walk, opened in 2026, with a small retro cinema room.",
  "Right in the centre",ta=False,geo="Chapel Walk, Sheffield",ll=(53.3823,-1.4682))
-add("records","Hub","Sharrow Vale Road, S11 8ZA",
+add("records","Hub","308 Sharrow Vale Road, S11 8ZL",
  "A small independent record shop with new and used vinyl.",
  "Pair with Sharrow Vale's cafés",ta=False,far=True,geo="Hub, Sharrow Vale Road, Sheffield",ll=(53.3700,-1.5000))
 
@@ -108,16 +105,13 @@ add("cafes","Cole's Corner","322 Abbeydale Road, S7 1FN",
  "A good break on an antiques hunt",price=1,ta=False,far=True,geo="Cole's Corner, Abbeydale Road, Sheffield",ll=(53.3655,-1.4818))
 
 # ---------------- EAT ----------------
-add("splurge","Jöro","Krynkl, 294 Shalesmoor, S3 8US",
- "Inventive Nordic-influenced tasting menus in a restaurant built from shipping containers, consistently ranked among the best in the country since opening in 2016.",
- "Book well ahead",price=4,geo="Joro, Shalesmoor, Sheffield",ll=(53.3876,-1.4785))
-add("mid","Juke & Loe","Kelham Island, S3",
- "A Michelin-listed modern British restaurant that has moved from Ecclesall Road to Kelham Island.",
- "Book at weekends",price=3,geo="Juke and Loe, Sheffield",ll=(53.3890,-1.4710))
+add("splurge","Jöro","Oughtibridge Mill, Oughtibridge, S35 0HU",
+ "Luke French's inventive tasting-menu restaurant, which moved from the city centre to a converted mill on the north-west edge of Sheffield in 2025 and won a Michelin star in the 2026 guide. There are apartments above if you want to stay.",
+ "Book well ahead; 15 minutes' drive from the centre",price=4,far=True,drive="15 min",geo="Oughtibridge Mill")
 add("mid","Domo","34–36 Cotton Mill Walk, Kelham Island, S3 8DH",
  "Sardinian cooking in Eagle Works, voted best large Italian restaurant at the UK Italian Awards. Fresh pasta and seafood.",
  "Try the culurgiones",price=2,geo="Domo, Sheffield",ll=(53.3893,-1.4720))
-add("mid","Native","167–169 Gibraltar Street, S3 8UA",
+add("mid","Native","169 Gibraltar Street, S3 8UA",
  "A seafood restaurant from the team behind the J.H. Mann fishmonger, cooking the day's catch simply and well.",
  "Ask what came in today",price=3,geo="Native, Gibraltar Street, Sheffield",ll=(53.3870,-1.4715))
 add("cheap","Cutlery Works","73–101 Neepsend Lane, S3 8AT",
@@ -129,7 +123,7 @@ add("pubs","Kelham Island Tavern","62 Russell Street, S3 8RW",
  "CAMRA's 2026 Sheffield & District Pub of the Year: a small backstreet pub with a dozen handpumps and a sun-trap beer garden. The Telegraph called it the best pub in South Yorkshire.",
  "Start your ale trail here",price=1,geo="Kelham Island Tavern")
 add("pubs","The Fat Cat","23 Alma Street, S3 8SA",
- "A proper old-fashioned workers' pub by the Kelham Island Museum, the first in Sheffield to sell guest beers, with its brewery next door.",
+ "A proper old-fashioned workers' pub by the Kelham Island Museum, the first in Sheffield to sell guest beers. Its Kelham Island beers, including Pale Rider, are now brewed by Thornbridge.",
  "Cheap, hearty pub food",price=1,geo="Fat Cat, Alma Street, Sheffield")
 add("pubs","Shakespeare's","146–148 Gibraltar Street, S3 8UB",
  "A rambling Georgian coaching inn with a huge range of cask ales, ciders and whiskies, and a beer garden.",
@@ -160,8 +154,8 @@ add("music","Sheffield City Hall","Barker's Pool, S1 2JA",
 add("music","Abbeydale Picture House","387 Abbeydale Road, S7 1FS",
  "A grand 1920s cinema reborn as a music venue, bar and arts space, with a quarterly vintage market and a monthly car boot sale.",
  "Check gigs and markets",far=True,geo="Abbeydale Picture House")
-add("music","Electric Sheffield","6–7 Leadmill Road, S1 4SE",
- "The building that was the famous Leadmill until its 2025 eviction now runs as Electric Sheffield. The Leadmill team is crowdfunding a new home elsewhere.",
+add("music","Electric Studios","6 Leadmill Road, S1 4SE",
+ "The building that was the famous Leadmill until its 2025 eviction has relaunched as Electric Studios, a live music venue. The Leadmill team is crowdfunding a new home elsewhere.",
  "Check listings",geo="Leadmill Road, Sheffield",ll=(53.3772,-1.4648))
 
 # ---------------- PARKS ----------------
@@ -174,7 +168,7 @@ add("parks","Porter Valley & Shepherd Wheel","Whiteley Wood, S11 7GB",
 
 # ---------------- SPORT ----------------
 add("sport","Bramall Lane (Sheffield United)","Bramall Lane, S2 4SU",
- "The oldest major stadium in the world still hosting professional football, first used in 1862 and home of the Blades.",
+ "The oldest major stadium in the world still hosting professional football. It opened for cricket in 1855, hosted its first football match in 1862, and is home of the Blades.",
  "A 15-minute walk south of the centre",far=True,geo="Bramall Lane")
 add("sport","Hillsborough (Sheffield Wednesday)","Hillsborough, S6 1SW",
  "The Owls' historic stadium in the north-west of the city, with a memorial to the 97 Liverpool fans who died in 1989.",
@@ -191,7 +185,7 @@ add("trips","Stanage Edge & Hathersage","Hathersage, S32 1DT",
  "A gritstone escarpment with huge views, famous with climbers and from Pride and Prejudice, above the village where Little John is said to be buried.",
  "Walk up from Hathersage or park at Hollin Bank",far=True,drive="30 min",geo="Stanage Edge")
 add("trips","Ladybower Reservoir","Bamford, S33 0AQ",
- "A huge reservoir in the Upper Derwent valley where the Dambusters practised. Woodland walks, cycle hire and the drowned village of Derwent.",
+ "A huge reservoir in the Upper Derwent valley, just below the Derwent Dam where the Dambusters practised in 1943. Woodland walks, cycle hire and the drowned village of Derwent.",
  "Fairholmes car park and café",far=True,drive="30 min",geo="Ladybower Reservoir")
 add("trips","Wentworth Woodhouse","Wentworth, Rotherham, S62 7TQ",
  "A colossal Georgian stately home with the longest façade of any country house in England, being restored by a trust. Guided tours.",
@@ -199,3 +193,65 @@ add("trips","Wentworth Woodhouse","Wentworth, Rotherham, S62 7TQ",
 add("trips","Yorkshire Sculpture Park","West Bretton, WF4 4LG",
  "500 acres of parkland with sculpture by Henry Moore, Barbara Hepworth and many others, plus indoor galleries.",
  "Free to walk; pay for parking",far=True,drive="35 min",geo="Yorkshire Sculpture Park")
+
+# ---------------- REVIEW ADDITIONS (Nov 2026) ----------------
+add("museums","National Videogame Museum","Castle House, Angel Street, S3 8LN",
+ "A hands-on museum of video games, with playable arcade and console games from every era plus changing exhibitions.",
+ "Good on a wet day; check opening days online",web="https://thenvm.org",geo="National Videogame Museum")
+add("fun","The Great Escape Game","St James House, Vicar Lane, S1 2EX",
+ "Several themed 60-minute escape rooms near the cathedral, with its own cocktail bar and kitchen.",
+ "Book ahead; about £23–25 per person",web="https://thegreatescapegame.co.uk",geo="The Great Escape Game, Sheffield")
+add("fun","The Treehouse Board Game Café","Boston Street, Highfield, S2",
+ "Sheffield's first board-game café, with a library of more than 800 games and staff who'll explain the rules. You book a table for two or four hours.",
+ "Book at weekends; games are for sale too",geo="Treehouse Board Game Cafe, Sheffield",far=True)
+add("gear","Rich Tone Music","64–82 Broadfield Road, S8 0XL",
+ "A large independent guitar shop with new, used and vintage guitars, amps and pedals. It buys and part-exchanges gear.",
+ "Mon–Sat 10:00–17:00; on-site parking; in the Antiques Quarter",web="https://richtonemusic.co.uk",far=True,geo="Rich Tone Music, Sheffield")
+add("charity","BHF Furniture & Electrical, Hillsborough","151 Bradfield Road, S6 2BY",
+ "A large British Heart Foundation store selling second-hand sofas, tables, wardrobes and tested electrical goods.",
+ "Open daily; pair with a Hillsborough match",far=True,geo="British Heart Foundation, Bradfield Road, Sheffield")
+add("food","Porter Brook Deli","362 Sharrow Vale Road, S11 8ZP",
+ "A family-run deli with one of Sheffield's widest cheese counters, plus cured meats and fine foods.",
+ "Pair with J.H. Mann fishmonger on the same road",far=True,geo="Porter Brook Deli")
+add("food","Pear Thai Oriental Supermarket","315–317 London Road, Highfield, S2 4NG",
+ "A well-stocked Thai and East Asian grocer on London Road, the city's main street for international food, with Turkish and Middle Eastern grocers nearby.",
+ "Combine with Harrison Cameras on the same road",far=True,geo="Pear Thai, London Road, Sheffield")
+add("food","Oseyo","The Moor, S1",
+ "A three-floor Korean supermarket on The Moor, the chain's largest UK store, with walls of instant noodles, snacks, kitchenware and K-pop goods.",
+ "Opened October 2025; check it's trading · pair with the Moor Market",ta=False,geo="Oseyo, The Moor, Sheffield",ll=(53.3768,-1.4723))
+add("cafes","Marmadukes","22 Norfolk Row, S1 2PA",
+ "A popular independent café on a quiet lane by St Marie's Cathedral, open since 2012 and known for brunch and cakes, with sister cafés on Cambridge Street and Ecclesall Road.",
+ "Expect a queue for weekend brunch",price=2,geo="Marmadukes, Norfolk Row, Sheffield")
+add("cafes","Forge Bakehouse","302 Abbeydale Road, S7 1FL",
+ "The original branch of Sheffield's best-known sourdough bakery, with breakfast and brunch, in the Antiques Quarter.",
+ "Go early for the best pastries",price=2,web="https://forgebakehouse.co.uk",far=True,geo="Forge Bakehouse, Abbeydale Road")
+add("cheap","The Street Food Chef","90 Arundel Street, S1 4RE",
+ "A Mexican canteen known for burritos, tacos and nachos, with plenty of gluten-free and dairy-free choices.",
+ "Usually open lunch to early evening",price=1,geo="Street Food Chef, Arundel Street, Sheffield")
+add("cheap","Cambridge Street Collective","Cambridge Street, S1 4HP",
+ "A three-floor food hall with about 20 kitchens, several bars and a rooftop terrace, from the team behind Cutlery Works.",
+ "Good for a group that can't agree what to eat",price=2,geo="Cambridge Street Collective")
+add("bars","Public","Town Hall, Surrey Street, S1 2HH",
+ "A tiny table-service cocktail bar in the former gents' toilets under the Town Hall, with vinyl playing, named among the UK's top 50 cocktail bars.",
+ "Arrive early; check the name, as one 2026 report calls it Social",price=3,geo="Public, Surrey Street, Sheffield",ll=(53.3803,-1.4695))
+add("fashion","Arnold & Co","Ecclesall Road, S11",
+ "An independent menswear shop with a well-chosen range of brands, strong on jeans, and knowledgeable staff.",
+ "Tue–Sat 10:00–17:00; closed Sun–Mon",who=["m"],far=True,geo="Arnold & Co, Ecclesall Road, Sheffield")
+add("parks","Sheffield General Cemetery","Cemetery Road, S11 8FT",
+ "A Victorian garden cemetery with a Greek-style gatehouse, a chapel and overgrown woodland paths, a peaceful place for a wander.",
+ "Free; volunteer tours some weekends",far=True,geo="Sheffield General Cemetery")
+add("parks","Endcliffe Park","Rustlings Road, S11 7AB",
+ "The busy park at the bottom of the Porter Valley, with a café, playground and stepping stones, and a memorial to the US bomber Mi Amigo, which crashed here in 1944.",
+ "Start of the walk up to Shepherd Wheel",far=True,geo="Endcliffe Park")
+add("trips","Bakewell","Bakewell, Derbyshire, DE45 1BT",
+ "A Peak District market town on the River Wye, home of the Bakewell pudding, with a Monday market and riverside walks.",
+ "Monday market day is busy",far=True,drive="40 min",geo="Bakewell")
+add("trips","Eyam","Eyam, Derbyshire, S32 5QH",
+ "The 'plague village' that cut itself off in 1665–66, with a small museum, plague cottages and Eyam Hall.",
+ "The museum is seasonal",far=True,drive="35 min",geo="Eyam Museum")
+add("trips","Hardwick Hall","Doe Lea, Chesterfield, S44 5QJ",
+ "Bess of Hardwick's grand Elizabethan house, famous for its huge windows ('more glass than wall'), with tapestries and a big park. National Trust.",
+ "Just off M1 junction 29",far=True,drive="35 min",geo="Hardwick Hall")
+add("sport","Sheffield Steelers ice hockey","Utilita Arena, Broughton Lane, S9 2DF",
+ "Top-flight Elite League ice hockey with loud crowds of several thousand.",
+ "Season runs September to April; tram to Arena",far=True,geo="Utilita Arena Sheffield")
