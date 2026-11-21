@@ -1,4 +1,4 @@
-const V = 'sheffield-v1';
+const V = 'sheffield-v2';
 const CORE = ["vendor/leaflet.js", "vendor/leaflet.css", "./", "index.html", "data.js", "manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png", "favicon.png", "img/cover.svg", "img/n1.svg", "img/n10.svg", "img/n11.svg", "img/n12.svg", "img/n13.svg", "img/n14.svg", "img/n15.svg", "img/n16.svg", "img/n17.svg", "img/n18.svg", "img/n19.svg", "img/n2.svg", "img/n20.svg", "img/n21.svg", "img/n22.svg", "img/n23.svg", "img/n24.svg", "img/n25.svg", "img/n26.svg", "img/n27.svg", "img/n28.svg", "img/n29.svg", "img/n3.svg", "img/n30.svg", "img/n31.svg", "img/n32.svg", "img/n33.svg", "img/n34.svg", "img/n35.svg", "img/n36.svg", "img/n37.svg", "img/n38.svg", "img/n39.svg", "img/n4.svg", "img/n40.svg", "img/n41.svg", "img/n42.svg", "img/n43.svg", "img/n44.svg", "img/n45.svg", "img/n46.svg", "img/n47.svg", "img/n48.svg", "img/n49.svg", "img/n5.svg", "img/n50.svg", "img/n51.svg", "img/n52.svg", "img/n53.svg", "img/n54.svg", "img/n55.svg", "img/n56.svg", "img/n6.svg", "img/n7.svg", "img/n8.svg", "img/n9.svg", "img/transit.svg"];
 const EXT = [];
 self.addEventListener('install', e => {
