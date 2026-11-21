@@ -26,7 +26,7 @@ add("museums","Weston Park Museum","Western Bank, S10 2TP",
  "Free · next to Weston Park and the university",web="https://sheffieldmuseums.org.uk",geo="Weston Park Museum")
 add("museums","Abbeydale Industrial Hamlet","Abbeydale Road South, S7 2QW",
  "An 18th-century scythe works with water-powered tilt hammers, workers' cottages and a manager's house, preserved as it was.",
- "Seasonal opening; check before you go",far=True,geo="Abbeydale Industrial Hamlet")
+ "Closed for winter; reopens spring 2027 · Thu–Sun 11:00–16:00 in season · free, £5 donation suggested",far=True,geo="Abbeydale Industrial Hamlet")
 add("museums","Portland Works","Randall Street, S2 4SJ",
  "A Victorian cutlery works, where stainless steel cutlery was first made, now saved by a community share offer and full of working makers. Open days and tours.",
  "Check the tour and open-day dates",ta=False,geo="Portland Works, Sheffield")
@@ -64,9 +64,9 @@ add("gear","Harrison Cameras","112–114 London Road, Highfield, S2 4LR",
  "Mon–Sat 10:00–18:00",web="https://www.harrisoncameras.co.uk",geo="Harrison Cameras, London Road, Sheffield")
 
 # ---------------- VINTAGE & ANTIQUES ----------------
-add("vintage","Sheffield Antiques Centre","178 Broadfield Road, S8 0XH",
+add("vintage","Sheffield Antiques Centre","Broadfield Road, Heeley, S8 0XH",
  "Over 40 antiques stalls in a 19th-century building in the Abbeydale Road Antiques Quarter, with architectural salvage and garden furniture in the courtyard.",
- "Wed–Thu by appointment; open other days",far=True,geo="Sheffield Antiques Centre")
+ "Mon, Tue, Fri, Sat 10:00–16:00, Sun 11:00–16:00 · Wed–Thu by appointment",far=True,geo="Sheffield Antiques Centre")
 add("vintage","Heeley Bank Antiques Centre","635 Queens Road, S2 4DX",
  "A multi-dealer antiques and vintage centre in an old school, packed with furniture, homewares and curios.",
  "Combine with the Antiques Quarter",ta=False,far=True,geo="Heeley Bank, Queens Road, Sheffield")
@@ -78,12 +78,12 @@ add("vintage","Vulgar","Unit 2, The Forum, 127–129 Devonshire Street, S3 7SB",
  "Pair with Division Street",ta=False,who=["m","w"],geo="Vulgar, Devonshire Street, Sheffield",ll=(53.3797,-1.4787))
 
 # ---------------- CHARITY ----------------
-add("charity","St Luke's Vintage Shop","3 Crookes Road, Broomhill, S10 5BA",
- "The local hospice's vintage charity shop in Broomhill, near Record Collector.",
- "Pair with Record Collector",ta=False,far=True,who=["m","w"],geo="St Luke's, Crookes Road, Sheffield",ll=(53.3822,-1.5005))
-add("charity","Age UK, Abbeydale Road","Abbeydale Road, S7",
- "A big charity shop in the Antiques Quarter selling pre-loved clothing, toys, bric-a-brac and homeware.",
- "Mon–Fri 9:00–17:00, Sat 9:00–16:00",ta=False,far=True,who=["m","w","k"],geo="Age UK, Abbeydale Road, Sheffield",ll=(53.3625,-1.4855))
+add("charity","St Luke's Vintage Shop","218 Fulwood Road, Broomhill, S10 3BB",
+ "The local hospice's vintage charity shop, which moved to a bigger site on Fulwood Road in July 2026, a few doors from Record Collector.",
+ "Pair with Record Collector",ta=False,far=True,who=["m","w"],geo="218 Fulwood Road, Sheffield",ll=(53.3806,-1.5018))
+add("charity","Age UK, Abbeydale Road","747 Abbeydale Road, S7 2BG",
+ "A big charity shop at the southern end of Abbeydale Road (Meersbrook Bank), selling pre-loved clothing, toys, bric-a-brac and homeware.",
+ "Mon–Fri 9:00–17:00, Sat 9:00–16:00",ta=False,far=True,who=["m","w","k"],geo="747 Abbeydale Road, Sheffield",ll=(53.3510,-1.4960))
 
 # ---------------- FOOD SHOPS & MARKETS ----------------
 add("markets","Moor Market","The Moor, S1 4PF",
@@ -95,7 +95,7 @@ add("food","J.H. Mann fishmonger","261 Sharrow Vale Road, S11 8ZE",
 
 # ---------------- CAFÉS ----------------
 add("cafes","Tamper Sellers Wheel","149 Arundel Street, S1 2NU",
- "The granddaddy of Sheffield's coffee scene, founded in 2011, with a menu inspired by Auckland cafés, in a former cutlery works.",
+ "The second branch, opened in 2013, of Tamper, a pioneer of Sheffield's coffee scene. The menu is inspired by New Zealand cafés and it sits in a 19th-century former silversmiths' works.",
  "Brunch gets busy at weekends",price=1,geo="Tamper Sellers Wheel, Sheffield")
 add("cafes","Steam Yard","Aberdeen Court, 95–97 Division Street, S1 4GE",
  "A popular independent coffee stop in a courtyard off Division Street, known for coffee and doughnuts.",
@@ -105,7 +105,7 @@ add("cafes","Cole's Corner","322 Abbeydale Road, S7 1FN",
  "A good break on an antiques hunt",price=1,ta=False,far=True,geo="Cole's Corner, Abbeydale Road, Sheffield",ll=(53.3655,-1.4818))
 
 # ---------------- EAT ----------------
-add("splurge","Jöro","Oughtibridge Mill, Oughtibridge, S35 0HU",
+add("splurge","Jöro","Oughtibridge Mill, Main Road, Wharncliffe Side, S35 0LB",
  "Luke French's inventive tasting-menu restaurant, which moved from the city centre to a converted mill on the north-west edge of Sheffield in 2025 and won a Michelin star in the 2026 guide. There are apartments above if you want to stay.",
  "Book well ahead; 15 minutes' drive from the centre",price=4,far=True,drive="15 min",geo="Oughtibridge Mill")
 add("mid","Domo","34–36 Cotton Mill Walk, Kelham Island, S3 8DH",
@@ -146,13 +146,13 @@ add("pubs","The Sheaf View","25 Gleadless Road, Heeley, S2 3AA",
 
 # ---------------- MUSIC & THEATRE ----------------
 add("music","Crucible & Lyceum Theatres","55 Norfolk Street, Tudor Square, S1 1DA",
- "The Crucible is home to the World Snooker Championship every spring and a famous thrust-stage theatre. The Lyceum next door is a gorgeous Edwardian theatre for touring shows and panto.",
- "Snooker runs late April to early May",web="https://www.sheffieldtheatres.co.uk",geo="Crucible Theatre")
+ "The Crucible is home to the World Snooker Championship every spring and a famous thrust-stage theatre. The Lyceum next door is a gorgeous 1897 Victorian theatre for touring shows and panto.",
+ "Snooker runs mid-April to early May",web="https://www.sheffieldtheatres.co.uk",geo="Crucible Theatre")
 add("music","Sheffield City Hall","Barker's Pool, S1 2JA",
  "A grand 1930s concert hall with a classic ballroom, for big touring bands, comedians and orchestras.",
  "Check the ballroom gigs too",geo="Sheffield City Hall")
 add("music","Abbeydale Picture House","387 Abbeydale Road, S7 1FS",
- "A grand 1920s cinema reborn as a music venue, bar and arts space, with a quarterly vintage market and a monthly car boot sale.",
+ "A grand 1920s cinema reborn as a music venue, bar and arts space, with a monthly flea market of 50+ stalls (usually the first Sunday).",
  "Check gigs and markets",far=True,geo="Abbeydale Picture House")
 add("music","Electric Studios","6 Leadmill Road, S1 4SE",
  "The building that was the famous Leadmill until its 2025 eviction has relaunched as Electric Studios, a live music venue. The Leadmill team is crowdfunding a new home elsewhere.",
@@ -162,9 +162,9 @@ add("music","Electric Studios","6 Leadmill Road, S1 4SE",
 add("parks","Sheffield Botanical Gardens","Clarkehouse Road, S10 2LN",
  "Nineteen acres of gardens laid out in 1836 with three restored glass pavilions, free to visit.",
  "Free · pair with Ecclesall Road cafés",far=True,geo="Sheffield Botanical Gardens")
-add("parks","Porter Valley & Shepherd Wheel","Whiteley Wood, S11 7GB",
+add("parks","Porter Valley & Shepherd Wheel","Off Hangingwater Road, S11 2YE",
  "A wooded valley walk from Endcliffe Park past old mill ponds to Shepherd Wheel, a water-powered grinding workshop. Sheffield is one of the greenest cities in Europe.",
- "Walk from Endcliffe Park; Shepherd Wheel opens weekends",far=True,geo="Shepherd Wheel, Sheffield")
+ "Walk from Endcliffe Park · Shepherd Wheel opens weekends and bank-holiday Mondays, 10–4 summer, 11–3 winter",far=True,geo="Shepherd Wheel, Sheffield")
 
 # ---------------- SPORT ----------------
 add("sport","Bramall Lane (Sheffield United)","Bramall Lane, S2 4SU",
@@ -192,7 +192,7 @@ add("trips","Wentworth Woodhouse","Wentworth, Rotherham, S62 7TQ",
  "Book a tour in advance",far=True,drive="25 min",geo="Wentworth Woodhouse")
 add("trips","Yorkshire Sculpture Park","West Bretton, WF4 4LG",
  "500 acres of parkland with sculpture by Henry Moore, Barbara Hepworth and many others, plus indoor galleries.",
- "Free to walk; pay for parking",far=True,drive="35 min",geo="Yorkshire Sculpture Park")
+ "Admission about £10 for adults, parking included; under-18s free · Tue–Sun",far=True,drive="35 min",geo="Yorkshire Sculpture Park")
 
 # ---------------- REVIEW ADDITIONS (Nov 2026) ----------------
 add("museums","National Videogame Museum","Castle House, Angel Street, S3 8LN",
@@ -201,9 +201,9 @@ add("museums","National Videogame Museum","Castle House, Angel Street, S3 8LN",
 add("fun","The Great Escape Game","St James House, Vicar Lane, S1 2EX",
  "Several themed 60-minute escape rooms near the cathedral, with its own cocktail bar and kitchen.",
  "Book ahead; about £23–25 per person",web="https://thegreatescapegame.co.uk",geo="The Great Escape Game, Sheffield")
-add("fun","The Treehouse Board Game Café","Boston Street, Highfield, S2",
+add("fun","The Treehouse Board Game Café","41 Boston Street, S2 4QF",
  "Sheffield's first board-game café, with a library of more than 800 games and staff who'll explain the rules. You book a table for two or four hours.",
- "Book at weekends; games are for sale too",geo="Treehouse Board Game Cafe, Sheffield",far=True)
+ "Book at weekends; games are for sale too",geo="Treehouse Board Game Cafe, Sheffield",far=True,ll=(53.3720,-1.4747))
 add("gear","Rich Tone Music","64–82 Broadfield Road, S8 0XL",
  "A large independent guitar shop with new, used and vintage guitars, amps and pedals. It buys and part-exchanges gear.",
  "Mon–Sat 10:00–17:00; on-site parking; in the Antiques Quarter",web="https://richtonemusic.co.uk",far=True,geo="Rich Tone Music, Sheffield")
@@ -233,13 +233,13 @@ add("cheap","Cambridge Street Collective","Cambridge Street, S1 4HP",
  "Good for a group that can't agree what to eat",price=2,geo="Cambridge Street Collective")
 add("bars","Public","Town Hall, Surrey Street, S1 2HH",
  "A tiny table-service cocktail bar in the former gents' toilets under the Town Hall, with vinyl playing, named among the UK's top 50 cocktail bars.",
- "Arrive early; check the name, as one 2026 report calls it Social",price=3,geo="Public, Surrey Street, Sheffield",ll=(53.3803,-1.4695))
-add("fashion","Arnold & Co","Ecclesall Road, S11",
- "An independent menswear shop with a well-chosen range of brands, strong on jeans, and knowledgeable staff.",
- "Tue–Sat 10:00–17:00; closed Sun–Mon",who=["m"],far=True,geo="Arnold & Co, Ecclesall Road, Sheffield")
+ "Arrive early",price=3,geo="Public, Surrey Street, Sheffield",ll=(53.3803,-1.4695))
+add("fashion","Arnold & Co","474 Ecclesall Road, S11 8PX",
+ "An independent menswear shop upstairs, with a heritage barbershop downstairs: a well-chosen range of brands, strong on jeans, with knowledgeable staff.",
+ "Tue–Sat 10:00–17:00; closed Sun–Mon",who=["m"],far=True,geo="474 Ecclesall Road, Sheffield",ll=(53.3700,-1.4930))
 add("parks","Sheffield General Cemetery","Cemetery Road, S11 8FT",
- "A Victorian garden cemetery with a Greek-style gatehouse, a chapel and overgrown woodland paths, a peaceful place for a wander.",
- "Free; volunteer tours some weekends",far=True,geo="Sheffield General Cemetery")
+ "A Victorian garden cemetery with an Egyptian-style gateway, a Greek-style chapel and overgrown woodland paths, a peaceful place for a wander.",
+ "Free to wander · paid guided tours (about £8.50) roughly monthly, booked online, from the Gatehouse on Cemetery Avenue",far=True,geo="Sheffield General Cemetery")
 add("parks","Endcliffe Park","Rustlings Road, S11 7AB",
  "The busy park at the bottom of the Porter Valley, with a café, playground and stepping stones, and a memorial to the US bomber Mi Amigo, which crashed here in 1944.",
  "Start of the walk up to Shepherd Wheel",far=True,geo="Endcliffe Park")

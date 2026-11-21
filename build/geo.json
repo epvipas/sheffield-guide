@@ -1,1 +1,662 @@
-{"Winter Garden": [[53.3798942, -1.4680465, "leisure", "garden", "Winter Garden, The Heart of the City, City Centre, Sheffield, South Yorkshire, E"]], "Peace Gardens & Town Hall": [[53.3798462, -1.4695769, "leisure", "garden", "Peace Gardens, The Heart of the City, City Centre, Sheffield, South Yorkshire, E"]], "Kelham Island Quarter": [[53.3878974, -1.4669452, "place", "islet", "Kelham Island, Neepsend, Sheffield, South Yorkshire, England, United Kingdom"]], "Sheffield Cathedral": [[53.3832276, -1.4692737, "amenity", "place_of_worship", "Sheffield Cathedral, Campo Lane, Wicker, Cathedral Quarter, City Centre, Sheffie"]], "Kelham Island Museum": [[53.3896667, -1.4728023, "tourism", "museum", "Kelham Island Museum, Alma Street, Kelham Island Community, Kelham Island, Neeps"]], "Weston Park Museum": [[53.3817589, -1.4922929, "tourism", "museum", "Weston Park Museum, Western Bank, Saint George's Quarter, Netherthorpe, Sheffiel"]], "Abbeydale Industrial Hamlet": [[53.3337651, -1.5121778, "tourism", "museum", "Abbeydale Industrial Hamlet, Abbeydale Road South, Abbeydale, Whirlow, Sheffield"]], "Portland Works": [[53.3699906, -1.4741148, "landuse", "industrial", "Portland Works, Cultural Industries Quarter, Highfield, Sheffield, South Yorkshi"]], "Millennium Gallery": [[53.3796799, -1.4675503, "tourism", "museum", "Millennium Gallery, Surrey Street, Moorhead, The Heart of the City, City Centre,"]], "Graves Gallery": [], "Site Gallery": [[53.3766497, -1.4664685, "tourism", "gallery", "Site Gallery, 1, Brown Street, Moorhead, Cultural Industries Quarter, City Centr"]], "Division Street & Devonshire Street": [[53.3801384, -1.4733407, "highway", "unclassified", "Division Street, Moorhead, The Heart of the City, City Centre, Sheffield, South "]], "Sharrow Vale Road": [[53.3677074, -1.4929315, "highway", "tertiary", "Sharrow Vale Road, Sharrow Vale, Sharrow, Sheffield, South Yorkshire, England, S"]], "Record Collector": [[53.3772804, -1.5011191, "shop", "music", "Record Collector, 233, Fulwood Road, Broomhill, Sheffield, South Yorkshire, Engl"]], "Memory Dance": [[53.3819897, -1.4677114, "highway", "pedestrian", "Chapel Walk, Moorhead, Cathedral Quarter, City Centre, Sheffield, South Yorkshir"]], "Hub": [[53.3676628, -1.4981841, "shop", "music", "Hub, Sharrow Vale Road, Sharrow Vale, Sharrow, Sheffield, South Yorkshire, Engla"]], "Harrison Cameras": [[53.3705236, -1.4778163, "shop", "camera", "Harrison Cameras, London Road, Little Sheffield, Devonshire Quarter, Highfield, "]], "Sheffield Antiques Centre": [[53.3602211, -1.4765431, "shop", "antiques", "Antiques Centre, 178, Broadfield Road, Heeley Bottom, Highfield, Sheffield, Sout"]], "Heeley Bank Antiques Centre": [[53.3639484, -1.4717727, "shop", "furniture", "Heeley Bank Antiques, Queens Road, Lowfield, Highfield, Sheffield, South Yorkshi"]], "Abbeydale Road Antiques Quarter": [[53.3468037, -1.4957855, "highway", "primary", "Abbeydale Road, Millhouses, Sheffield, South Yorkshire, England, S7 2QD, United "]], "Vulgar": [[53.3793423, -1.4774096, "shop", "second_hand", "Vulgar, 127-129, Devonshire Street, Moorhead, Devonshire Quarter, City Centre, S"]], "St Luke's Vintage Shop": [], "Age UK, Abbeydale Road": [], "Moor Market": [[53.3755941, -1.4722792, "amenity", "fast_food", "The Market Chippy, 77, The Moor, Moorhead, Sheffield Moor, City Centre, Sheffiel"]], "J.H. Mann fishmonger": [[53.3675442, -1.4970505, "shop", "seafood", "J. H. Mann, 261, Sharrow Vale Road, Sharrow Vale, Sharrow, Sheffield, South York"]], "Tamper Sellers Wheel": [[53.3773489, -1.4673976, "amenity", "cafe", "Tamper, 149, Arundel Street, Moorhead, Cultural Industries Quarter, City Centre,"]], "Steam Yard": [[53.3793682, -1.4760908, "amenity", "cafe", "Steam Yard, 95-97, Division Street, Moorhead, Devonshire Quarter, City Centre, S"]], "Cole's Corner": [[53.3608369, -1.4793577, "amenity", "bar", "Cole's Corner, 322, Abbeydale Road, Heeley Bottom, Highfield, Sheffield, South Y"]], "J\u00f6ro": [[53.44284, -1.5477472, "m", "m", "J\u00f6ro, Main Road, Brightholmlee, Bradfield, Wharncliffe Side,"]], "Juke & Loe": [], "Domo": [[53.3891943, -1.473064, "amenity", "restaurant", "Domo Restaurant, 34-36, Cotton Mill Walk, Kelham Island Community, Kelham Island"]], "Native": [[53.3867648, -1.4720805, "amenity", "restaurant", "Native, 167-169, Gibraltar Street, Kelham Island, Neepsend, Sheffield, South Yor"]], "Cutlery Works": [[53.3858908, -1.4714627, "building", "apartments", "Cutlery Works, Lambert Street, Kelham Island, City Centre, Sheffield, South York"]], "Kelham Island Tavern": [[53.3881844, -1.4721293, "amenity", "pub", "Kelham Island Tavern, 62, Russell Street, Kelham Island Community, Kelham Island"]], "The Fat Cat": [[53.3886156, -1.471777, "amenity", "pub", "The Fat Cat, 23, Alma Street, Kelham Island Community, Kelham Island, Neepsend, "]], "Shakespeare's": [[53.3868204, -1.4715043, "amenity", "pub", "Shakespeare's, 146-148, Gibraltar Street, Kelham Island, City Centre, Sheffield,"]], "Dog & Partridge": [], "The Sheffield Tap": [[53.3787768, -1.4627333, "amenity", "pub", "Sheffield Tap, Sheaf Street, Moorhead, Sheaf Valley Quarter, City Centre, Sheffi"]], "The Bath Hotel": [[53.3792122, -1.4822849, "amenity", "pub", "The Bath Hotel, 66-68, Victoria Street, Moorfoot, Saint George's Quarter, Broomh"]], "The Rutland Arms": [[53.376576, -1.4674909, "amenity", "pub", "Rutland Arms, 86, Brown Street, Moorhead, Cultural Industries Quarter, City Cent"]], "The Sheaf View": [[53.3621303, -1.4710023, "amenity", "pub", "The Sheaf View, 25, Gleadless Road, Middle Heeley, Meersbrook, Sheffield, South "]], "Crucible & Lyceum Theatres": [[53.3810666, -1.4667774, "amenity", "theatre", "The Crucible, 55, Norfolk Street, Moorhead, The Heart of the City, City Centre, "]], "Sheffield City Hall": [[53.3808408, -1.4724326, "amenity", "theatre", "Sheffield City Hall, Barker's Pool, Moorhead, The Heart of the City, City Centre"]], "Abbeydale Picture House": [[53.3592907, -1.4799224, "amenity", "cinema", "Abbeydale Picture House, 387, Abbeydale Road, Heeley Bottom, Nether Edge, Sheffi"]], "Sheffield Botanical Gardens": [[53.3719669, -1.4980092, "leisure", "garden", "Sheffield Botanical Gardens, Saint George's Quarter, Broomhill, Sheffield, South"]], "Porter Valley & Shepherd Wheel": [[53.3645615, -1.5245421, "tourism", "museum", "Shepherd Wheel, Hangingwater Road, Hangingwater, Ranmoor, Sheffield, South Yorks"]], "Bramall Lane (Sheffield United)": [[53.3703429, -1.4707145, "leisure", "stadium", "Bramall Lane, Moorfoot, Cultural Industries Quarter, Highfield, Sheffield, South"]], "Hillsborough (Sheffield Wednesday)": [[53.411379, -1.5006311, "leisure", "stadium", "Hillsborough Stadium, Catch Bar Lane, Middlewood, Hillsborough, Sheffield, South"]], "Castleton": [[53.3406983, -1.7867905, "boundary", "administrative", "Castleton, High Peak, Derbyshire, East Midlands, England, United Kingdom"]], "Chatsworth": [[53.2275873, -1.6113902, "tourism", "attraction", "Chatsworth House, Broadwalk, Chatsworth CP, Derbyshire Dales, Derbyshire, East M"]], "Stanage Edge & Hathersage": [[53.3631156, -1.6552035, "natural", "cliff", "Stanage Edge, Hathersage, Derbyshire Dales, Derbyshire, East Midlands, England, "]], "Ladybower Reservoir": [[53.3836563, -1.7159191, "water", "reservoir", "Ladybower Reservoir, Hope Woodlands, High Peak, Derbyshire, East Midlands, Engla"]], "Wentworth Woodhouse": [[53.4742307, -1.404912, "building", "yes", "Wentworth Woodhouse, Willow Walk, Wentworth, Thorpe Hesley, Rotherham, South Yor"]], "Yorkshire Sculpture Park": [[53.6057937, -1.5710442, "leisure", "park", "Yorkshire Sculpture Park, Huddersfield Road, West Bretton, Wakefield, West Yorks"]], "Park Hill": [[53.3783713, -1.4621381, "railway", "station", "Sheffield, Granville Street, Victoria Quays, Sheaf Valley Quarter, Park Hill, Sh"]], "Electric Studios": [[53.3731792, -1.4657838, "highway", "residential", "Leadmill Road, Moorhead, Cultural Industries Quarter, City Centre, Sheffield, So"]], "National Videogame Museum": [[53.3836961, -1.4656227, "tourism", "museum", "The National Videogame Museum, King Street, Wicker, Castlegate Quarter, City Cen"]], "The Great Escape Game": [[53.3826, -1.4704, "manual", "manual", "manual"]], "The Treehouse Board Game Caf\u00e9": [[53.3720134, -1.4747037, "amenity", "cafe", "The Treehouse Board Game Cafe, 41, Boston Street, Little Sheffield, Devonshire Q"]], "Rich Tone Music": [[53.3618099, -1.4753141, "shop", "musical_instrument", "Rich Tone Music, 64-82, Broadfield Road, Heeley Bottom, Highfield, Sheffield, So"]], "BHF Furniture & Electrical, Hillsborough": [[53.4029056, -1.5002535, "shop", "charity", "British Heart Foundation, 151, Bradfield Road, Owlerton, Middlewood, Hillsboroug"]], "Porter Brook Deli": [[53.3674212, -1.4998416, "shop", "deli", "Porter Brook Deli, 362, Sharrow Vale Road, Sharrow Vale, Broomhill, Sheffield, S"]], "Pear Thai Oriental Supermarket": [[53.364, -1.4795, "manual", "manual", "manual"]], "Oseyo": [[53.3774464, -1.4718604, "shop", "supermarket", "Oseyo, 9, The Moor, Moorhead, Sheffield Moor, City Centre, Sheffield, South York"]], "Marmadukes": [[53.381038, -1.4682694, "amenity", "cafe", "Marmadukes, 22, Norfolk Row, Moorhead, The Heart of the City, City Centre, Sheff"]], "Forge Bakehouse": [[53.3613439, -1.4790407, "shop", "bakery", "Forge Bakehouse, 302, Abbeydale Road, Heeley Bottom, Highfield, Sheffield, South"]], "The Street Food Chef": [[53.3765788, -1.4688633, "amenity", "fast_food", "The Street Food Chef Mexican Canteen, 90, Arundel Street, Moorhead, Cultural Ind"]], "Cambridge Street Collective": [[53.3791083, -1.4723782, "amenity", "fast_food", "The Other Half, 11, Backfields, Moorhead, The Heart of the City, City Centre, Sh"]], "Public": [[53.3806382, -1.4697472, "amenity", "bar", "Public, Surrey Street, Moorhead, The Heart of the City, City Centre, Sheffield, "]], "Arnold & Co": [[53.37, -1.493, "manual", "manual", "manual"]], "Sheffield General Cemetery": [[53.3691791, -1.4879445, "landuse", "cemetery", "Sheffield General Cemetery, Devonshire Quarter, Sharrow, Sheffield, South Yorksh"]], "Endcliffe Park": [[53.3683847, -1.508512, "leisure", "park", "Endcliffe Park, Ranmoor, Sheffield, South Yorkshire, England, S11 8TA, United Ki"]], "Bakewell": [[53.2148429, -1.6758613, "boundary", "administrative", "Bakewell CP, Derbyshire Dales, Derbyshire, East Midlands, England, United Kingdo"]], "Eyam": [[53.2871183, -1.6777593, "tourism", "museum", "Eyam Museum, Hawkhill Road, Eyam CP, Derbyshire Dales, Derbyshire, East Midlands"]], "Hardwick Hall": [[53.1679978, -1.3088009, "tourism", "attraction", "Hardwick Hall, Stableyard Footpath, Ault Hucknall, Doe Lea, Chesterfield, Derbys"]], "Sheffield Steelers ice hockey": [[53.399899, -1.4188184, "leisure", "stadium", "Utilita Arena Sheffield, Broughton Lane, Advanced Manufacturing Innovation Distr"]]}
+{
+"Winter Garden": [
+[
+53.3798942,
+-1.4680465,
+"leisure",
+"garden",
+"Winter Garden, The Heart of the City, City Centre, Sheffield, South Yorkshire, E"
+]
+],
+"Peace Gardens & Town Hall": [
+[
+53.3798462,
+-1.4695769,
+"leisure",
+"garden",
+"Peace Gardens, The Heart of the City, City Centre, Sheffield, South Yorkshire, E"
+]
+],
+"Kelham Island Quarter": [
+[
+53.3878974,
+-1.4669452,
+"place",
+"islet",
+"Kelham Island, Neepsend, Sheffield, South Yorkshire, England, United Kingdom"
+]
+],
+"Sheffield Cathedral": [
+[
+53.3832276,
+-1.4692737,
+"amenity",
+"place_of_worship",
+"Sheffield Cathedral, Campo Lane, Wicker, Cathedral Quarter, City Centre, Sheffie"
+]
+],
+"Kelham Island Museum": [
+[
+53.3896667,
+-1.4728023,
+"tourism",
+"museum",
+"Kelham Island Museum, Alma Street, Kelham Island Community, Kelham Island, Neeps"
+]
+],
+"Weston Park Museum": [
+[
+53.3817589,
+-1.4922929,
+"tourism",
+"museum",
+"Weston Park Museum, Western Bank, Saint George's Quarter, Netherthorpe, Sheffiel"
+]
+],
+"Abbeydale Industrial Hamlet": [
+[
+53.3337651,
+-1.5121778,
+"tourism",
+"museum",
+"Abbeydale Industrial Hamlet, Abbeydale Road South, Abbeydale, Whirlow, Sheffield"
+]
+],
+"Portland Works": [
+[
+53.3699906,
+-1.4741148,
+"landuse",
+"industrial",
+"Portland Works, Cultural Industries Quarter, Highfield, Sheffield, South Yorkshi"
+]
+],
+"Millennium Gallery": [
+[
+53.3796799,
+-1.4675503,
+"tourism",
+"museum",
+"Millennium Gallery, Surrey Street, Moorhead, The Heart of the City, City Centre,"
+]
+],
+"Graves Gallery": [],
+"Site Gallery": [
+[
+53.3766497,
+-1.4664685,
+"tourism",
+"gallery",
+"Site Gallery, 1, Brown Street, Moorhead, Cultural Industries Quarter, City Centr"
+]
+],
+"Division Street & Devonshire Street": [
+[
+53.3801384,
+-1.4733407,
+"highway",
+"unclassified",
+"Division Street, Moorhead, The Heart of the City, City Centre, Sheffield, South "
+]
+],
+"Sharrow Vale Road": [
+[
+53.3677074,
+-1.4929315,
+"highway",
+"tertiary",
+"Sharrow Vale Road, Sharrow Vale, Sharrow, Sheffield, South Yorkshire, England, S"
+]
+],
+"Record Collector": [
+[
+53.3772804,
+-1.5011191,
+"shop",
+"music",
+"Record Collector, 233, Fulwood Road, Broomhill, Sheffield, South Yorkshire, Engl"
+]
+],
+"Memory Dance": [
+[
+53.3819897,
+-1.4677114,
+"highway",
+"pedestrian",
+"Chapel Walk, Moorhead, Cathedral Quarter, City Centre, Sheffield, South Yorkshir"
+]
+],
+"Hub": [
+[
+53.3676628,
+-1.4981841,
+"shop",
+"music",
+"Hub, Sharrow Vale Road, Sharrow Vale, Sharrow, Sheffield, South Yorkshire, Engla"
+]
+],
+"Harrison Cameras": [
+[
+53.3705236,
+-1.4778163,
+"shop",
+"camera",
+"Harrison Cameras, London Road, Little Sheffield, Devonshire Quarter, Highfield, "
+]
+],
+"Heeley Bank Antiques Centre": [
+[
+53.3639484,
+-1.4717727,
+"shop",
+"furniture",
+"Heeley Bank Antiques, Queens Road, Lowfield, Highfield, Sheffield, South Yorkshi"
+]
+],
+"Abbeydale Road Antiques Quarter": [
+[
+53.3468037,
+-1.4957855,
+"highway",
+"primary",
+"Abbeydale Road, Millhouses, Sheffield, South Yorkshire, England, S7 2QD, United "
+]
+],
+"Vulgar": [
+[
+53.3793423,
+-1.4774096,
+"shop",
+"second_hand",
+"Vulgar, 127-129, Devonshire Street, Moorhead, Devonshire Quarter, City Centre, S"
+]
+],
+"Moor Market": [
+[
+53.3755941,
+-1.4722792,
+"amenity",
+"fast_food",
+"The Market Chippy, 77, The Moor, Moorhead, Sheffield Moor, City Centre, Sheffiel"
+]
+],
+"J.H. Mann fishmonger": [
+[
+53.3675442,
+-1.4970505,
+"shop",
+"seafood",
+"J. H. Mann, 261, Sharrow Vale Road, Sharrow Vale, Sharrow, Sheffield, South York"
+]
+],
+"Tamper Sellers Wheel": [
+[
+53.3773489,
+-1.4673976,
+"amenity",
+"cafe",
+"Tamper, 149, Arundel Street, Moorhead, Cultural Industries Quarter, City Centre,"
+]
+],
+"Steam Yard": [
+[
+53.3793682,
+-1.4760908,
+"amenity",
+"cafe",
+"Steam Yard, 95-97, Division Street, Moorhead, Devonshire Quarter, City Centre, S"
+]
+],
+"Cole's Corner": [
+[
+53.3608369,
+-1.4793577,
+"amenity",
+"bar",
+"Cole's Corner, 322, Abbeydale Road, Heeley Bottom, Highfield, Sheffield, South Y"
+]
+],
+"J\u00f6ro": [
+[
+53.44284,
+-1.5477472,
+"m",
+"m",
+"J\u00f6ro, Main Road, Brightholmlee, Bradfield, Wharncliffe Side,"
+]
+],
+"Juke & Loe": [],
+"Domo": [
+[
+53.3891943,
+-1.473064,
+"amenity",
+"restaurant",
+"Domo Restaurant, 34-36, Cotton Mill Walk, Kelham Island Community, Kelham Island"
+]
+],
+"Native": [
+[
+53.3867648,
+-1.4720805,
+"amenity",
+"restaurant",
+"Native, 167-169, Gibraltar Street, Kelham Island, Neepsend, Sheffield, South Yor"
+]
+],
+"Cutlery Works": [
+[
+53.3858908,
+-1.4714627,
+"building",
+"apartments",
+"Cutlery Works, Lambert Street, Kelham Island, City Centre, Sheffield, South York"
+]
+],
+"Kelham Island Tavern": [
+[
+53.3881844,
+-1.4721293,
+"amenity",
+"pub",
+"Kelham Island Tavern, 62, Russell Street, Kelham Island Community, Kelham Island"
+]
+],
+"The Fat Cat": [
+[
+53.3886156,
+-1.471777,
+"amenity",
+"pub",
+"The Fat Cat, 23, Alma Street, Kelham Island Community, Kelham Island, Neepsend, "
+]
+],
+"Shakespeare's": [
+[
+53.3868204,
+-1.4715043,
+"amenity",
+"pub",
+"Shakespeare's, 146-148, Gibraltar Street, Kelham Island, City Centre, Sheffield,"
+]
+],
+"Dog & Partridge": [],
+"The Sheffield Tap": [
+[
+53.3787768,
+-1.4627333,
+"amenity",
+"pub",
+"Sheffield Tap, Sheaf Street, Moorhead, Sheaf Valley Quarter, City Centre, Sheffi"
+]
+],
+"The Bath Hotel": [
+[
+53.3792122,
+-1.4822849,
+"amenity",
+"pub",
+"The Bath Hotel, 66-68, Victoria Street, Moorfoot, Saint George's Quarter, Broomh"
+]
+],
+"The Rutland Arms": [
+[
+53.376576,
+-1.4674909,
+"amenity",
+"pub",
+"Rutland Arms, 86, Brown Street, Moorhead, Cultural Industries Quarter, City Cent"
+]
+],
+"The Sheaf View": [
+[
+53.3621303,
+-1.4710023,
+"amenity",
+"pub",
+"The Sheaf View, 25, Gleadless Road, Middle Heeley, Meersbrook, Sheffield, South "
+]
+],
+"Crucible & Lyceum Theatres": [
+[
+53.3810666,
+-1.4667774,
+"amenity",
+"theatre",
+"The Crucible, 55, Norfolk Street, Moorhead, The Heart of the City, City Centre, "
+]
+],
+"Sheffield City Hall": [
+[
+53.3808408,
+-1.4724326,
+"amenity",
+"theatre",
+"Sheffield City Hall, Barker's Pool, Moorhead, The Heart of the City, City Centre"
+]
+],
+"Abbeydale Picture House": [
+[
+53.3592907,
+-1.4799224,
+"amenity",
+"cinema",
+"Abbeydale Picture House, 387, Abbeydale Road, Heeley Bottom, Nether Edge, Sheffi"
+]
+],
+"Sheffield Botanical Gardens": [
+[
+53.3719669,
+-1.4980092,
+"leisure",
+"garden",
+"Sheffield Botanical Gardens, Saint George's Quarter, Broomhill, Sheffield, South"
+]
+],
+"Porter Valley & Shepherd Wheel": [
+[
+53.3645615,
+-1.5245421,
+"tourism",
+"museum",
+"Shepherd Wheel, Hangingwater Road, Hangingwater, Ranmoor, Sheffield, South Yorks"
+]
+],
+"Bramall Lane (Sheffield United)": [
+[
+53.3703429,
+-1.4707145,
+"leisure",
+"stadium",
+"Bramall Lane, Moorfoot, Cultural Industries Quarter, Highfield, Sheffield, South"
+]
+],
+"Hillsborough (Sheffield Wednesday)": [
+[
+53.411379,
+-1.5006311,
+"leisure",
+"stadium",
+"Hillsborough Stadium, Catch Bar Lane, Middlewood, Hillsborough, Sheffield, South"
+]
+],
+"Castleton": [
+[
+53.3406983,
+-1.7867905,
+"boundary",
+"administrative",
+"Castleton, High Peak, Derbyshire, East Midlands, England, United Kingdom"
+]
+],
+"Chatsworth": [
+[
+53.2275873,
+-1.6113902,
+"tourism",
+"attraction",
+"Chatsworth House, Broadwalk, Chatsworth CP, Derbyshire Dales, Derbyshire, East M"
+]
+],
+"Stanage Edge & Hathersage": [
+[
+53.3631156,
+-1.6552035,
+"natural",
+"cliff",
+"Stanage Edge, Hathersage, Derbyshire Dales, Derbyshire, East Midlands, England, "
+]
+],
+"Ladybower Reservoir": [
+[
+53.3836563,
+-1.7159191,
+"water",
+"reservoir",
+"Ladybower Reservoir, Hope Woodlands, High Peak, Derbyshire, East Midlands, Engla"
+]
+],
+"Wentworth Woodhouse": [
+[
+53.4742307,
+-1.404912,
+"building",
+"yes",
+"Wentworth Woodhouse, Willow Walk, Wentworth, Thorpe Hesley, Rotherham, South Yor"
+]
+],
+"Yorkshire Sculpture Park": [
+[
+53.6057937,
+-1.5710442,
+"leisure",
+"park",
+"Yorkshire Sculpture Park, Huddersfield Road, West Bretton, Wakefield, West Yorks"
+]
+],
+"Park Hill": [
+[
+53.3783713,
+-1.4621381,
+"railway",
+"station",
+"Sheffield, Granville Street, Victoria Quays, Sheaf Valley Quarter, Park Hill, Sh"
+]
+],
+"Electric Studios": [
+[
+53.3731792,
+-1.4657838,
+"highway",
+"residential",
+"Leadmill Road, Moorhead, Cultural Industries Quarter, City Centre, Sheffield, So"
+]
+],
+"National Videogame Museum": [
+[
+53.3836961,
+-1.4656227,
+"tourism",
+"museum",
+"The National Videogame Museum, King Street, Wicker, Castlegate Quarter, City Cen"
+]
+],
+"The Great Escape Game": [
+[
+53.3826,
+-1.4704,
+"manual",
+"manual",
+"manual"
+]
+],
+"Rich Tone Music": [
+[
+53.3618099,
+-1.4753141,
+"shop",
+"musical_instrument",
+"Rich Tone Music, 64-82, Broadfield Road, Heeley Bottom, Highfield, Sheffield, So"
+]
+],
+"BHF Furniture & Electrical, Hillsborough": [
+[
+53.4029056,
+-1.5002535,
+"shop",
+"charity",
+"British Heart Foundation, 151, Bradfield Road, Owlerton, Middlewood, Hillsboroug"
+]
+],
+"Porter Brook Deli": [
+[
+53.3674212,
+-1.4998416,
+"shop",
+"deli",
+"Porter Brook Deli, 362, Sharrow Vale Road, Sharrow Vale, Broomhill, Sheffield, S"
+]
+],
+"Pear Thai Oriental Supermarket": [
+[
+53.364,
+-1.4795,
+"manual",
+"manual",
+"manual"
+]
+],
+"Oseyo": [
+[
+53.3774464,
+-1.4718604,
+"shop",
+"supermarket",
+"Oseyo, 9, The Moor, Moorhead, Sheffield Moor, City Centre, Sheffield, South York"
+]
+],
+"Marmadukes": [
+[
+53.381038,
+-1.4682694,
+"amenity",
+"cafe",
+"Marmadukes, 22, Norfolk Row, Moorhead, The Heart of the City, City Centre, Sheff"
+]
+],
+"Forge Bakehouse": [
+[
+53.3613439,
+-1.4790407,
+"shop",
+"bakery",
+"Forge Bakehouse, 302, Abbeydale Road, Heeley Bottom, Highfield, Sheffield, South"
+]
+],
+"The Street Food Chef": [
+[
+53.3765788,
+-1.4688633,
+"amenity",
+"fast_food",
+"The Street Food Chef Mexican Canteen, 90, Arundel Street, Moorhead, Cultural Ind"
+]
+],
+"Cambridge Street Collective": [
+[
+53.3791083,
+-1.4723782,
+"amenity",
+"fast_food",
+"The Other Half, 11, Backfields, Moorhead, The Heart of the City, City Centre, Sh"
+]
+],
+"Public": [
+[
+53.3806382,
+-1.4697472,
+"amenity",
+"bar",
+"Public, Surrey Street, Moorhead, The Heart of the City, City Centre, Sheffield, "
+]
+],
+"Sheffield General Cemetery": [
+[
+53.3691791,
+-1.4879445,
+"landuse",
+"cemetery",
+"Sheffield General Cemetery, Devonshire Quarter, Sharrow, Sheffield, South Yorksh"
+]
+],
+"Endcliffe Park": [
+[
+53.3683847,
+-1.508512,
+"leisure",
+"park",
+"Endcliffe Park, Ranmoor, Sheffield, South Yorkshire, England, S11 8TA, United Ki"
+]
+],
+"Bakewell": [
+[
+53.2148429,
+-1.6758613,
+"boundary",
+"administrative",
+"Bakewell CP, Derbyshire Dales, Derbyshire, East Midlands, England, United Kingdo"
+]
+],
+"Eyam": [
+[
+53.2871183,
+-1.6777593,
+"tourism",
+"museum",
+"Eyam Museum, Hawkhill Road, Eyam CP, Derbyshire Dales, Derbyshire, East Midlands"
+]
+],
+"Hardwick Hall": [
+[
+53.1679978,
+-1.3088009,
+"tourism",
+"attraction",
+"Hardwick Hall, Stableyard Footpath, Ault Hucknall, Doe Lea, Chesterfield, Derbys"
+]
+],
+"Sheffield Steelers ice hockey": [
+[
+53.399899,
+-1.4188184,
+"leisure",
+"stadium",
+"Utilita Arena Sheffield, Broughton Lane, Advanced Manufacturing Innovation Distr"
+]
+],
+"Sheffield Antiques Centre": [
+[
+53.3602211,
+-1.4765431,
+"shop",
+"antiques",
+"Antiques Centre, 178, Broadfield Road, Heeley Bottom, Highfield, Sheffield, Sout"
+]
+],
+"St Luke's Vintage Shop": [
+[
+53.3776053,
+-1.5013879,
+"shop",
+"charity",
+"St Luke's Vintage, 218, Fulwood Road, Broomhill, Sheffield, South Yorkshire, Eng"
+]
+],
+"Age UK, Abbeydale Road": [
+[
+53.3537178,
+-1.4856857,
+"shop",
+"vacant",
+"747, Abbeydale Road, Meersbrook Bank, Nether Edge, Sheffield, South Yorkshire, E"
+]
+],
+"The Treehouse Board Game Caf\u00e9": [
+[
+53.3720134,
+-1.4747037,
+"amenity",
+"cafe",
+"The Treehouse Board Game Cafe, 41, Boston Street, Little Sheffield, Devonshire Q"
+]
+],
+"Arnold & Co": [
+[
+53.3693368,
+-1.4953091,
+"place",
+"house",
+"474, Ecclesall Road, Sharrow Vale, Sharrow, Sheffield, South Yorkshire, England,"
+]
+]
+}
